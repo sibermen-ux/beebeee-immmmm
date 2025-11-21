@@ -1,5 +1,5 @@
 # beebeeeğimmmmm
-<head>
+
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Feyza İçin</title>
@@ -118,9 +118,6 @@
 
     <div class="poem"> “KALBİMİN TEK YÖNÜ”<br><br>Her yollar karıştığında<br>tek bildiğim yön sensin.<br>Ne pusula isterim,<br>ne harita,<br>ne tavsiye…<br>Kalbim seni gösteriyor tek bir çizgiyle:<br>“Buraya dön.”<br><br>Gülüşünle başlayan,<br>bakışınla devam eden<br>uzun bir yol bu…<br>Dönmek istemediğim,<br>bırakmak istemediğim bir yol.<br><br>Ve bil sevgilim—<br>ben seni öyle sevdim ki,<br>bütün ihtimalleri susturup<br>kalbimi tek bir ihtimale bağladım:<br>Sen.</div>
   </div>
-
-    
-  </div>
   <footer>Bu sayfa sadece senin için hazırlandı, Feyza.</footer>
   <script>
     function createHeart(){
@@ -135,5 +132,5 @@
     }
     setInterval(createHeart,500);
   </script>
-</body>
+
 
