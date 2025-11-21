@@ -1,4 +1,4 @@
-# beebeeeğimmmmm<html lang="tr">
+# beebeeeğimmmmm
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -136,4 +136,4 @@
     setInterval(createHeart,500);
   </script>
 </body>
-</html>
+
